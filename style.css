@@ -1,0 +1,14 @@
+body {
+	background-color: #0051FF;
+}
+
+h1 {
+	color: #FF0000;
+}
+
+
+.post {
+	border-radius: 10px;
+	background-color: #E32727;
+	text-align: center;
+}
