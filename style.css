@@ -11,6 +11,7 @@ h1 {
 	border-radius: 10px;
 	background-color: #E32727;
 	text-align: center;
+	padding-top: 70px;
 }
 
 #banner {
@@ -19,5 +20,4 @@ h1 {
 	top: 0; 
 	left:0;
 	background-color:  #FFFB00;
-	padding: 10px;
 }
