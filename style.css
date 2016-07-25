@@ -1,6 +1,7 @@
 body {
 	/*background-color: #0051FF;*/
 	background-image: url("punacana.jpg");
+	background-attachment: fixed;
 }
 
 h1 {
