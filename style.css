@@ -25,7 +25,8 @@ h1 {
 	position: absolute;
 	top: 0; 
 	left:0;
-	background-color:  #FFFB00;
+	/*background-color:  #FFFB00;*/
+	background-image: url("http://d17ltyjz8g6bf5.cloudfront.net/carousel_position/url/685/OGPUJ_RC_Beach.jpg");
 }
 
 #post1 {
